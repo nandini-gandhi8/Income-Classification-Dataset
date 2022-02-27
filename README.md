@@ -1,2 +1,2 @@
-# Income-Classification-Dataset
+# MLP-1 Income-Classification-Dataset
 MLP Assignment
